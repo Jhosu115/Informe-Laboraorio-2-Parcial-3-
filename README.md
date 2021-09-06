@@ -27,20 +27,26 @@ Ing. Darwin Omar Alulema Flores
 
 ## **1.1 Objetivo general**
 
-Asmilar los nuevos materiales introducioendolos en un simulador utilizando los diferentes instrumentos 
+Determinar experimentalmente las características de señales senoidales.
 
 ## **1.1 Objetivs específicos**
 
-* Verificar el comportamient de la bocina y el capacitor en los circuitos AC y DC.
+* Construir un circuito que muestre como se comporta una onda senoidal.
 
-* Acoplarse a los nuevos instrumentos de medida
+* Obtener una visión más clara de como se interpreta una onda senoidal.
+
+* Calcular los componentes de la onda senoidal y comparar con los resultados del simulador.
+
+* Conocer los instrumentos que mides estos valores (valor medio y valor eficaz). Verificar el valor de lafrecuencia.
+
+* Analizar y determinar en forma experimental los valores medios y eficaces en un circuito de corrientealterna (C.A.) resistivo, con rectificador de media onda y con rectificador de onda completa.
 
 # 2 MARCO TEÓRICO
 <div align="center">
   
-![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/png%20(1).png)
+![image]()
   
-![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/png%20(2).png)
+![image]()
   
 </div>
 
