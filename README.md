@@ -46,7 +46,7 @@ Determinar experimentalmente las características de señales senoidales.
   
 ![image]()
   
-![image]()
+
   
 </div>
 
