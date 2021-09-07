@@ -44,17 +44,14 @@ Determinar experimentalmente las características de señales senoidales.
 # 2 MARCO TEÓRICO
 <div align="center">
   
-![image]()
-  
-
-  
+[![ONDA-SENOIDAL.png](https://i.postimg.cc/L8xdX0WL/ONDA-SENOIDAL.png)](https://postimg.cc/w1R44Fgj)
+    
 </div>
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
 
 <div align="center">
      
-
   
 </div>
 
